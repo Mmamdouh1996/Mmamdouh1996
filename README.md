@@ -36,13 +36,13 @@ I have worked on projects that served thousands of users, built scalable applica
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefdergham&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmamdouh1996&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
 
 ## 🎯 LeetCode Heatmap
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/yousefmohameddergham?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Loll96?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 
